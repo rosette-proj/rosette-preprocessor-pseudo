@@ -3,7 +3,7 @@ require 'rosette/preprocessors/pseudo-preprocessor/version'
 
 Gem::Specification.new do |s|
   s.name     = "rosette-preprocessor-pseudo"
-  s.version  = ::Rosette::Preprocessors::PseudoPreprocessor::VERSION
+  s.version  = ::Rosette::Preprocessors::PSEUDO_PREPROCESSOR_VERSION
   s.authors  = ["Cameron Dutro"]
   s.email    = ["camertron@gmail.com"]
   s.homepage = "http://github.com/camertron"

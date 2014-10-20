@@ -2,8 +2,6 @@
 
 module Rosette
   module Preprocessors
-    class PseudoPreprocessor
-      VERSION = '1.0.0'
-    end
+    PSEUDO_PREPROCESSOR_VERSION = '1.0.0'
   end
 end
